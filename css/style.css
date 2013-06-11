@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	background-color: #FFFFFF;
+}
+
+#main-container {
+	width: 918px;
+	min-height: 300px;
+	margin: auto;
+	font-family: "helvetica", "arial", sans-serif;
+	color: #333333;
+}
+
+
+header{
+	border-bottom: 1px solid #DDDDDD;
+	margin: 0 0 30px 0;
+	padding: 0 0 10px 0;
+}
+
+	h1{
+		font-size: 2.5em;
+	}
+
+	h2{
+		font-size: 1.5em;
+	}
+
+
+#q{
+	width: 300px;
+	margin-bottom: 10px;
+	font-size: 1em;
+}
