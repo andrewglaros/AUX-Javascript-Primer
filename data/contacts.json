@@ -2,43 +2,43 @@
 	"addressBook" : [
 		{
 			"name": "andrew",
-			"email": "andrew@example.com",
+			"email": "andrew@example.com"
 		},
 		{
 			"name": "emily",
-			"email": "emily@example.com",
+			"email": "emily@example.com"
 		},
 		{
 			"name": "arthur",
-			"email": "arthur@example.com",
+			"email": "arthur@example.com"
 		},
 		{
 			"name": "lonny",
-			"email": "lonny@example.com",
+			"email": "lonny@example.com"
 		},
 		{
 			"name": "sean",
-			"email": "sean@example.com",
+			"email": "sean@example.com"
 		},
 		{
 			"name": "becky",
-			"email": "becky@example.com",
+			"email": "becky@example.com"
 		},
 		{
 			"name": "bess",
-			"email": "bess@example.com",
+			"email": "bess@example.com"
 		},
 		{
 			"name": "dara",
-			"email": "dara@example.com",
+			"email": "dara@example.com"
 		},
 		{
 			"name": "sara",
-			"email": "sara@example.com",
+			"email": "sara@example.com"
 		},
 		{
 			"name": "ian",
-			"email": "ian@example.com",
+			"email": "ian@example.com"
 		}
 	]
 }
