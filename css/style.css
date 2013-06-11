@@ -1,3 +1,7 @@
+.hidden{
+	display: none;
+}
+
 body {
 	margin: 0;
 	background-color: #FFFFFF;
@@ -26,9 +30,39 @@ header{
 		font-size: 1.5em;
 	}
 
+#search-form{
+	margin-bottom: 10px;
+}
 
-#q{
+#search{
 	width: 300px;
 	margin-bottom: 10px;
-	font-size: 1em;
+	font-size: 2em;
 }
+
+.btn{
+	margin-left: 5px;
+	padding: 5px 10px 5px 10px;
+	background-color: #DDDDDD;
+	border: none;
+	font-size: .75em;
+}
+
+	.btn:hover{
+		background-color: #CCCCCC;
+	}
+
+	.btn:active{
+		background-color: #AAAAAA;
+	}
+
+
+#output p{
+	margin: 0;
+	border-bottom: 1px solid #EEEEEE;
+	padding: 15px 0 15px 15px;
+}
+
+	#output p:hover{
+		background-color: #EEEEEE;
+	}

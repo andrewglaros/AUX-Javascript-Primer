@@ -32,7 +32,7 @@
 
 		/* define the DOM elements and common variables needed */
 		var searchForm = document.getElementById("search-form"),
-			searchField = document.getElementById("q"),
+			searchField = document.getElementById("search"),
 			getAllButton = document.getElementById("get-all"),
 			count = contacts.addressBook.length,
 			target = document.getElementById("output");
@@ -97,7 +97,7 @@
 		                    // look through the name value to see if it contains the search term
 		                    var obj = contacts.addressBook[i];
 		                    
-		                    target.innerHTML += '<p>' + obj.name + ', <a href="mailto:' + obj.email + '">'+ obj.email +'</a></p>';
+		                    target.innerHTML += '<p>' + obj.name + ' - <a href="mailto:' + obj.email + '">'+ obj.email +'</a></p>';
 		                    
 		                } // end for loop
 		            } // end count
