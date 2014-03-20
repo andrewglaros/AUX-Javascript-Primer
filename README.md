@@ -1,6 +1,6 @@
 Javascript_primer
 =================
 
-A JavaScript introduction exercise for Fresh Tilled Soil's apprentice program.
+A JavaScript introduction exercise for Fresh Tilled Soil's apprentice program, written by Tim Wright.
 
-by Andrew Glaros
+Code by Andrew Glaros
